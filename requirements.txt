@@ -1,0 +1,8 @@
+kucoin-python
+requests~=2.26.0
+websocket~=0.2.1
+websocket-client~=1.2.1
+bs4~=0.0.1
+beautifulsoup4~=4.9.3
+huobiApi~=0.0.5
+numpy~=1.21.2
